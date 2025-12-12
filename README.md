@@ -11,6 +11,7 @@ The Madhav E-Commerce Sales Dashboard is an interactive Power BI report designed
 3. Tech Stack
 
 The dashboard was built using the following tools and technologies:
+
 • 📊 Power BI Desktop – Main data visualization platform used for dashboard creation.
 • 📂 Power Query – Data transformation and cleaning layer for preparing city, order, and product data.
 • 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional metrics.
